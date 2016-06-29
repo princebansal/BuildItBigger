@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\FinalProject\jokedroid\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="65e67e5bc1175fc4a282818221757a750b70a1f9">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\FinalProject-jokedroid-unspecified_184c0abbbf70ab8e447e1dfaa655be717959dfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support-animated-vector-drawable-23.4.0_0fa9f978b39156a213528c7599bd1ba974e5dc19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="b54601d48ab82b83b830bfac65838b6a1c1c92db">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\classes_15ec9a58e41901a54bfff3fc7d3455e741ff58f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.1_60e796d8646879a06ab6ebb214fd412adf0bd9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0_0ae9262a8df2638749bcf51cfa616591745f122d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0_454fa4f88360113000de0bd401132a17df1e310a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_a8c1e633458ea61ddd91974813954ff46f52c0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.5_1304861772e73704a6ba04aa561ba885068b3704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.1_722c609672f65962d8bb8ec30d71e6694d88855d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.1_87ba88caf95cbf499e8abf9769abd51a73d3029b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_6c77309717ef790efa7547abefeae5edf6802a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_0023d66e7eb8192c70379c49d80c8a25ea763d97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokesbackend\build\libs\jokesbackend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="12ee78b85f7bfae58bde9000f69515079f10c70f">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\jokesbackend-android-endpoints_df4cc41639c603ba82c3b47cc1ce5b61b2e81ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.1_31bfb0a0fe5dffae05a9ca7483abbf7723e02b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.5_3da103e63fb504cd8897e25cedadbf2e8e97ce84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_745a3d18d8d57f29c6e8967239ad5af058d35388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_7d11d739889157fe05ae332ca332caa733c4d4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_6c84ed5750b4bf6e6ca5d79e02c64839254c5231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0_69823e236623b106ed3058e20cd2053925183186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_bbc71e6f1d994085b74ad49eafa40e130bf9ab72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\internal_impl-23.4.0_460a342a0f79d1c307d48581b07e433b9e8ff7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0_8bf41b33e0c35316c7a7caf6a7a38c35d8bbaed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_8496f6b2b43dd88708fc767c65a085f0da00a699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0_54f47d1cc9bf944e1ab07f3dbf01638ffcbb544b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-v4-23.4.0_3f5fc3c7c95da814ec22b98f0969ef515f70b409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="aa3f026e88b5606be5cb0c7be5cf224489ede2bf">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.1_abd006b6d6b0776fff66c58fa06c9a323c75f187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.2_aa4c9006ddd9cfa9a6773dcdc6d966123e00eac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_34501a71833ca92518dc94a731fb45eca420ce43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support-appcompat-v7-23.4.0_a81879f545e47065e879ac251da1dd0332d06a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_ffff4be69e51b1866dad33683ae55066eb3a3efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_a173ae2fc94ed7bdcd245dc37dc64b5161924e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_ca993c176c051d24292944d140742a63190bd433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="19a8ef100d7456c2fde021851a40506c86d14821">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.1_b1c17fa9a8dcf76e042151df429714febd3d47e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_950b82ddac263a182ad77da8713d02a7cadd4181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0_f8823abfcc9d8ed8a723c113610a64616df441a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_6598ec3d1a60f3556e34c0dfae562daeec5b48b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0_d281fa4a6e96009bd0d20cc8f37a596081310740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_13997731e8837a186d35eb264baeebd6dcaa0fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prince Bansal\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_69d3a2738f8c11afc8d8ef5651282700433322ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\jokedroid\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-vector-drawable-23.4.0_9faa2e6f81604986af3e92ad6c9a6e01b954607b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="E:\Prince\Projects\Udacity\Build It Bigger\ud867\FinalProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_a42ccd667f93c3a43023c0d2156f4514c3dee197.jar" />
+    </item>
+
+</items>
